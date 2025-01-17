@@ -1,4 +1,5 @@
 /.idea/
+/.paper-nms/
 /target/
 /pom.xml.versionsBackup
 /Core/target/
@@ -13,3 +14,5 @@
 /MC_1_21_3/pom.xml.versionsBackup
 /MC_1_21_4/target/
 /MC_1_21_4/pom.xml.versionsBackup
+
+*.iml
